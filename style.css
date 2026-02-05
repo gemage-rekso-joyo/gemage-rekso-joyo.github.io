@@ -605,13 +605,6 @@ ul {
     transform: scale(1.05);
 }
 
-.product-image::before {
-    content: '🔬';
-    font-size: 4rem;
-    opacity: 0.15;
-    position: absolute;
-}
-
 .product-badge {
     position: absolute;
     top: 16px;
